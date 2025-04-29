@@ -83,6 +83,3 @@ Cleaning Management System/
 - UI: Tailwind CSS, Material UI
 - Icons: Material UI Icons
 - Backend: Express, MongoDB
-
-## License
-This project is for educational and demonstration purposes.
