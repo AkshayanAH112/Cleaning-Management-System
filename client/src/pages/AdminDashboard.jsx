@@ -88,3 +88,4 @@ export default function AdminDashboard({ token }) {
     </div>
   );
 }
+// Removed unused variables: handleEdit, handleDelete

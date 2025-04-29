@@ -31,10 +31,6 @@ function AppContent() {
       navigate("/");
     }
   };
-  const handleLogout = () => {
-    setUser(null);
-    localStorage.removeItem("user");
-  };
 
   const hideNavbarRoutes = ["/login", "/register"];
   const showNavbar = !hideNavbarRoutes.includes(location.pathname);
